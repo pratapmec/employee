@@ -13,6 +13,8 @@ public class Employee {
         this.EmpSal = empSal;
     }
 
+    //getter and setter methods
+
     public Employee(){}
 
     public int getEmpid() {
